@@ -1,0 +1,1 @@
+I’m interested in DATA602 because I want a solid, practical foundation in Python, Pandas, and Jupyter—the stuff I’ll actually use on real projects.
