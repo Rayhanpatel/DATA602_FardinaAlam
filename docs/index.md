@@ -1,1 +1,2 @@
-# DATA602 — HW0\nWelcome!\n
+# DATA602 — HW0
+Welcome!
